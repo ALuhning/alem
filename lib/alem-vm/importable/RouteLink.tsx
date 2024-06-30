@@ -42,7 +42,7 @@ export const RouteLink = ({
     }
 
     // Evita o refresh da pagina
-    const Link = styled("Link")``;
+  //  const Link = styled("Link")``;
 
     return (
       <Link
